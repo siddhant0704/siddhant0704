@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello,
 
 I’m @siddhant0704 :grinning: and I have recently graduated with my Masters in Data Science from Columbia University :student:. I enjoy engaging in hackathons and ideation competitions :technologist: to solve pressing problems whilst refining my technical skills. For any queries, you can reach out to me via sk4975@columbia.edu :smile:	
 
