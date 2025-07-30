@@ -1,6 +1,6 @@
 # Hello,
 
-I’m @siddhant0704 :grinning: and I have recently graduated with my Masters in Data Science from Columbia University :student:. I enjoy engaging in hackathons and ideation competitions :technologist: to solve pressing problems whilst refining my technical skills. For any queries, you can reach out to me via sk4975@columbia.edu :smile:	
+I’m @siddhant0704 :grinning: and I am an Applied Scientist at Amazon Ads with previous roles at CVS Health as a Machine Learning Engineer, and have co-founded a tech startup. I have graduated with my Masters in Data Science from Columbia University :student:. I enjoy engaging in hackathons and ideation competitions :technologist: to solve pressing problems whilst refining my technical skills. For any queries, you can reach out to me via sk4975@columbia.edu :smile:	
 
 Some of my achievements and Publications are listed below:
 
